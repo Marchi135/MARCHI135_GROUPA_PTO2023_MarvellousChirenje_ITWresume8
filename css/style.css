@@ -138,6 +138,7 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 .footer{
     background-color: #2F4858;
     color: antiquewhite;
+    text-align: end;
 }
 /* Style all font awesome icons */
 .fa {
